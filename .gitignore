@@ -11,5 +11,8 @@ glaucoma_env/
 # Streamlit cache
 .streamlit/
 
+# Jupyter notebooks
+.ipynb_checkpoints/
+
 # Model weights
 *.pth
