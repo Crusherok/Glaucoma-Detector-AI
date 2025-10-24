@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.glaucoma_env/
+glaucoma_env/
+
+# Streamlit cache
+.streamlit/
+
+# Model weights
+*.pth
