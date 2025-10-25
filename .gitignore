@@ -14,5 +14,4 @@ glaucoma_env/
 # Jupyter notebooks
 .ipynb_checkpoints/
 
-# Model weights
-*.pth
+
